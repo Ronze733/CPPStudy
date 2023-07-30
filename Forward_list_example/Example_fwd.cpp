@@ -15,7 +15,7 @@ std::ostream& operator<<(std::ostream& os, const citizen& c)
 
 /*
 	람다식을 사용하지 않을 경우
-	bool isYoungerThan19(const citizen& c)
+bool isYoungerThan19(const citizen& c)
 {
 	// 나이가 19세보다 작으면 true를 반환하여 리스트에서 제거
 	return (c.age < 19);
