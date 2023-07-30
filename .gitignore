@@ -32,3 +32,10 @@
 *.app
 
 .vs/
+
+*.sln
+
+*.vcproj
+*.vcxproj
+*.vcxproj.filters
+
